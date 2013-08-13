@@ -1,4 +1,6 @@
-== What can we do ==
+== Disclaimer ==
+This app is primarily meant for research ONLY.
+All operations in this app are "working as intented", according to the Android Security Team. 
 
 == What can we do ==
 This app proposes a demo, showing that we can read some private data from an android device, then send them out by network, without claiming any permission in AndroidManifest.xml
